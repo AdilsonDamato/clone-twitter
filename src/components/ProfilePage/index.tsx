@@ -21,17 +21,24 @@ const ProfilePage: React.FC = () => {
       <ProfileData>
         <EditButton outlined>Editar Perfil</EditButton>
 
-        <h1>AdilsonPereira</h1>
-        <h2>@pereiradilson</h2>
+        <h1>Adilson Pereira</h1>
+        <h2>@PereiraAdilson_</h2>
 
         <p>
-          Developer at <a href="http://">@pereiradilson</a>
+          Developer at{' '}
+          <a
+            href="https://twitter.com/PereiraAdilson_"
+            target="_blank"
+            rel="noreferrer"
+          >
+            @PereiraAdilson_
+          </a>
         </p>
 
         <ul>
           <li>
             <LocationIcon />
-            Criciúma, SC
+            Criciúma, SC, Brasil
           </li>
           <li>
             <CakeIcon />
