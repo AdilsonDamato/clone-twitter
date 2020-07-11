@@ -31,7 +31,7 @@ const ProfilePage: React.FC = () => {
           <a
             href="https://twitter.com/PereiraAdilson_"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             @PereiraAdilson_
           </a>
