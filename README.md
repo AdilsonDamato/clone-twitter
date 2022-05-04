@@ -25,7 +25,7 @@
   # Enter folder
   $ cd clone-twitter
 
-  # Install dependences
+  # Install dependencies
   $ yarn
 
   #Execute
